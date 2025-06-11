@@ -5,8 +5,7 @@ image_path = 'test1.jpg'
 
 # Coordinates (x1, y1, x2, y2)
 bounding_boxes = [
-    [109, 233, 385, 670],
-    [416, 225, 700, 558]
+    [233,109 ,670 ,385 ]
 ]
 
 # Load the image
