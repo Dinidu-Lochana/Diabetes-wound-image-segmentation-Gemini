@@ -1,2 +1,5 @@
 venv
 .env
+wound_dataset_groundingDino
+wound-dataset
+wound-dataset.zip
